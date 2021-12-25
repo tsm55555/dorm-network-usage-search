@@ -26,5 +26,5 @@ while (True):
     if(count==4):
         print("下載 (全部): " + r.text[pos2+1:pos+2])
         break
-#git test    
+
 os.system("pause")
